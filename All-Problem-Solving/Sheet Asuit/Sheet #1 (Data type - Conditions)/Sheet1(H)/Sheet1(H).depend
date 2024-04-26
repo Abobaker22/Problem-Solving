@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1705494774 source:d:\c partition\codeblocks-projects\sheet asuit\sheet1(h)\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+

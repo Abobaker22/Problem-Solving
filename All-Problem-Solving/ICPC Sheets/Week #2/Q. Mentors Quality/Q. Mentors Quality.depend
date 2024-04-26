@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1707743158 source:d:\c partition\codeblocks-projects\icpc sheets\week #2\q. mentors quality\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+

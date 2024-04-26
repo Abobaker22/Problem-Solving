@@ -1,0 +1,3 @@
+"D:\C Partition\clion\CLion 2023.3.4\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\G__Magnets.dir/objects.a
+"D:\C Partition\clion\CLion 2023.3.4\bin\mingw\bin\ar.exe" qc CMakeFiles\G__Magnets.dir/objects.a @CMakeFiles\G__Magnets.dir\objects1.rsp
+"D:\C Partition\clion\CLion 2023.3.4\bin\mingw\bin\g++.exe" -g -Wl,--whole-archive CMakeFiles\G__Magnets.dir/objects.a -Wl,--no-whole-archive -o G__Magnets.exe -Wl,--out-implib,libG__Magnets.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\G__Magnets.dir\linkLibs.rsp

@@ -1,0 +1,27 @@
+# ninja log v5
+0	528	7318709949306910	CMakeFiles/F__Fox_And_Snake.dir/main.cpp.obj	bb64b086acdb807e
+531	650	7318709950473443	F__Fox_And_Snake.exe	6931c268d28c30ce
+4	535	7318710152753012	CMakeFiles/F__Fox_And_Snake.dir/main.cpp.obj	bb64b086acdb807e
+536	667	7318710154019695	F__Fox_And_Snake.exe	6931c268d28c30ce
+3	563	7318710470862509	CMakeFiles/F__Fox_And_Snake.dir/main.cpp.obj	bb64b086acdb807e
+564	690	7318710472079531	F__Fox_And_Snake.exe	6931c268d28c30ce
+3	547	7318710645645273	CMakeFiles/F__Fox_And_Snake.dir/main.cpp.obj	bb64b086acdb807e
+547	668	7318710646822448	F__Fox_And_Snake.exe	6931c268d28c30ce
+6	576	7318713336222452	CMakeFiles/F__Fox_And_Snake.dir/main.cpp.obj	bb64b086acdb807e
+576	707	7318713337509432	F__Fox_And_Snake.exe	6931c268d28c30ce
+3	500	7318713601917545	CMakeFiles/F__Fox_And_Snake.dir/main.cpp.obj	bb64b086acdb807e
+501	620	7318713603074517	F__Fox_And_Snake.exe	6931c268d28c30ce
+3	520	7318714196926554	CMakeFiles/F__Fox_And_Snake.dir/main.cpp.obj	bb64b086acdb807e
+520	639	7318714198063477	F__Fox_And_Snake.exe	6931c268d28c30ce
+7	572	7318716594440316	CMakeFiles/F__Fox_And_Snake.dir/main.cpp.obj	bb64b086acdb807e
+572	700	7318716595656980	F__Fox_And_Snake.exe	6931c268d28c30ce
+3	482	7318717558221640	CMakeFiles/F__Fox_And_Snake.dir/main.cpp.obj	bb64b086acdb807e
+483	601	7318717559348729	F__Fox_And_Snake.exe	6931c268d28c30ce
+3	489	7318718204268293	CMakeFiles/F__Fox_And_Snake.dir/main.cpp.obj	bb64b086acdb807e
+490	609	7318718205424791	F__Fox_And_Snake.exe	6931c268d28c30ce
+5	555	7318729285012393	CMakeFiles/F__Fox_And_Snake.dir/main.cpp.obj	bb64b086acdb807e
+555	681	7318729286238796	F__Fox_And_Snake.exe	6931c268d28c30ce
+4	515	7318730803452359	CMakeFiles/F__Fox_And_Snake.dir/main.cpp.obj	bb64b086acdb807e
+515	638	7318730804649158	F__Fox_And_Snake.exe	6931c268d28c30ce
+4	511	7318731126125007	CMakeFiles/F__Fox_And_Snake.dir/main.cpp.obj	bb64b086acdb807e
+512	638	7318731127341444	F__Fox_And_Snake.exe	6931c268d28c30ce

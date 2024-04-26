@@ -1,0 +1,3 @@
+D:/C Partition/Clion-Projects/Contest #4/A. Search in infinity numbers/cmake-build-debug/CMakeFiles/A__Search_in_infinity_numbers.dir
+D:/C Partition/Clion-Projects/Contest #4/A. Search in infinity numbers/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C Partition/Clion-Projects/Contest #4/A. Search in infinity numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

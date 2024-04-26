@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "F__Fox_And_Snake",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "F__Fox_And_Snake::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-F__Fox_And_Snake-Debug-22257932fb319ba5691e.json",
+					"name" : "F__Fox_And_Snake",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/C Partition/Clion-Projects/Sheet #8 (General easy)/F. Fox And Snake/cmake-build-debug",
+		"source" : "D:/C Partition/Clion-Projects/Sheet #8 (General easy)/F. Fox And Snake"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

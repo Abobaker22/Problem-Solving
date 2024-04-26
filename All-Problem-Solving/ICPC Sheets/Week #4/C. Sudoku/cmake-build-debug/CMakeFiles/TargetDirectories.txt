@@ -1,0 +1,3 @@
+D:/C Partition/Clion-Projects/C. Sudoku/cmake-build-debug/CMakeFiles/C__Sudoku.dir
+D:/C Partition/Clion-Projects/C. Sudoku/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C Partition/Clion-Projects/C. Sudoku/cmake-build-debug/CMakeFiles/rebuild_cache.dir

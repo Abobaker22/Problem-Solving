@@ -1,0 +1,3 @@
+D:/C Partition/Clion-Projects/Sheet #8 (General easy)/G. Magnets/cmake-build-debug/CMakeFiles/G__Magnets.dir
+D:/C Partition/Clion-Projects/Sheet #8 (General easy)/G. Magnets/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C Partition/Clion-Projects/Sheet #8 (General easy)/G. Magnets/cmake-build-debug/CMakeFiles/rebuild_cache.dir

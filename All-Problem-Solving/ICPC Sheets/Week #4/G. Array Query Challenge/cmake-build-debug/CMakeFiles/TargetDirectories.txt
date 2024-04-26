@@ -1,0 +1,3 @@
+D:/C Partition/Clion-Projects/G. Array Query Challenge/cmake-build-debug/CMakeFiles/G__Array_Query_Challenge.dir
+D:/C Partition/Clion-Projects/G. Array Query Challenge/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C Partition/Clion-Projects/G. Array Query Challenge/cmake-build-debug/CMakeFiles/rebuild_cache.dir

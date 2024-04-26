@@ -1,0 +1,3 @@
+D:/C Partition/Clion-Projects/B. The letters detector/cmake-build-debug/CMakeFiles/B__The_letters_detector.dir
+D:/C Partition/Clion-Projects/B. The letters detector/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C Partition/Clion-Projects/B. The letters detector/cmake-build-debug/CMakeFiles/rebuild_cache.dir

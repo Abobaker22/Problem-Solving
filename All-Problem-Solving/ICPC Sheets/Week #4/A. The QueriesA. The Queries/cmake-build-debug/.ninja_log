@@ -1,0 +1,10 @@
+# ninja log v5
+1	397	7303107611492366	build.ninja	a4299287b95abb16
+0	814	7303107619955043	CMakeFiles/A__The_QueriesA__The_Queries.dir/main.cpp.obj	65b46787ad83ecbc
+816	1180	7303107623555002	A__The_QueriesA__The_Queries.exe	37db9f020998e9b5
+4	771	7303110233937057	CMakeFiles/A__The_QueriesA__The_Queries.dir/main.cpp.obj	65b46787ad83ecbc
+772	1887	7303110245032714	A__The_QueriesA__The_Queries.exe	37db9f020998e9b5
+4	645	7303112417198425	CMakeFiles/A__The_QueriesA__The_Queries.dir/main.cpp.obj	65b46787ad83ecbc
+645	975	7303112420447871	A__The_QueriesA__The_Queries.exe	37db9f020998e9b5
+4	510	7303114580798266	CMakeFiles/A__The_QueriesA__The_Queries.dir/main.cpp.obj	65b46787ad83ecbc
+511	1241	7303114588055172	A__The_QueriesA__The_Queries.exe	37db9f020998e9b5

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.27)
+project(Sheet__8__General_easy_A__Palindromes_Replace)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(Sheet__8__General_easy_A__Palindromes_Replace main.cpp)

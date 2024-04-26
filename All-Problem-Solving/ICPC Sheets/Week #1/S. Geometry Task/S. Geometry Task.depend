@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1706831539 source:d:\c partition\codeblocks-projects\ieee sheets\week #1\s. geometry task\main.cpp
+	<iostream>
+
+1707067796 source:d:\c partition\codeblocks-projects\icpc sheets\week #1\s. geometry task\main.cpp
+	<iostream>
+	<cmath>
+

@@ -1,0 +1,3 @@
+D:/C Partition/Clion-Projects/K. Wasted Time 2 The sequel/cmake-build-debug/CMakeFiles/K__Wasted_Time_2_The_sequel.dir
+D:/C Partition/Clion-Projects/K. Wasted Time 2 The sequel/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C Partition/Clion-Projects/K. Wasted Time 2 The sequel/cmake-build-debug/CMakeFiles/rebuild_cache.dir

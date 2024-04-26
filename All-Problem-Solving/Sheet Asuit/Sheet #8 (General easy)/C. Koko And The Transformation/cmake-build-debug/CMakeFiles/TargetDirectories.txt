@@ -1,0 +1,3 @@
+D:/C Partition/Clion-Projects/Sheet #8 (General easy)/C. Koko And The Transformation/cmake-build-debug/CMakeFiles/C__Koko_And_The_Transformation.dir
+D:/C Partition/Clion-Projects/Sheet #8 (General easy)/C. Koko And The Transformation/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C Partition/Clion-Projects/Sheet #8 (General easy)/C. Koko And The Transformation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

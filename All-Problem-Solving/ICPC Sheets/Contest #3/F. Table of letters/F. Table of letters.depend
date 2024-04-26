@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1708364206 source:d:\c partition\codeblocks-projects\icpc sheets\contest #3\f. table of letters\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+

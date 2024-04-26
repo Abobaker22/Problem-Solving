@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708045306 source:d:\c partition\codeblocks-projects\icpc sheets\week #3\i. count the a's\main.cpp
+	<iostream>
+	<algorithm>
+

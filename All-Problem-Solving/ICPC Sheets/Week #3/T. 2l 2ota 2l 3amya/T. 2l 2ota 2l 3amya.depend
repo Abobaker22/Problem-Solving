@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1708119825 source:d:\c partition\codeblocks-projects\icpc sheets\week #3\t. 2l 2ota 2l 3amya\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,3 @@
+D:/C Partition/Clion-Projects/F. Witch's Sandwiches/cmake-build-debug/CMakeFiles/F__Witch_s_Sandwiches.dir
+D:/C Partition/Clion-Projects/F. Witch's Sandwiches/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C Partition/Clion-Projects/F. Witch's Sandwiches/cmake-build-debug/CMakeFiles/rebuild_cache.dir

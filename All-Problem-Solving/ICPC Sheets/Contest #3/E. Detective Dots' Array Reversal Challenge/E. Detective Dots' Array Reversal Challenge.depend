@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708356654 source:d:\c partition\codeblocks-projects\icpc sheets\contest #3\e. detective dots' array reversal challenge\main.cpp
+	<iostream>
+	<algorithm>
+

@@ -1,0 +1,3 @@
+D:/C Partition/Clion-Projects/Contest #4/B. Even or Odd/cmake-build-debug/CMakeFiles/B__Even_or_Odd.dir
+D:/C Partition/Clion-Projects/Contest #4/B. Even or Odd/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C Partition/Clion-Projects/Contest #4/B. Even or Odd/cmake-build-debug/CMakeFiles/rebuild_cache.dir

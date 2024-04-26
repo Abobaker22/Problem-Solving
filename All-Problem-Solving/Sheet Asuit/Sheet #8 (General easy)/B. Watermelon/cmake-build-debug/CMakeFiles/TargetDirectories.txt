@@ -1,0 +1,3 @@
+D:/C Partition/Clion-Projects/Sheet #8 (General easy)/B. Watermelon/cmake-build-debug/CMakeFiles/B__Watermelon.dir
+D:/C Partition/Clion-Projects/Sheet #8 (General easy)/B. Watermelon/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C Partition/Clion-Projects/Sheet #8 (General easy)/B. Watermelon/cmake-build-debug/CMakeFiles/rebuild_cache.dir

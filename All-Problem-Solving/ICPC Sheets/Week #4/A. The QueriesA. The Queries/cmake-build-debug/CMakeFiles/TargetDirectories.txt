@@ -1,0 +1,3 @@
+D:/C Partition/Clion-Projects/A. The QueriesA. The Queries/cmake-build-debug/CMakeFiles/A__The_QueriesA__The_Queries.dir
+D:/C Partition/Clion-Projects/A. The QueriesA. The Queries/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C Partition/Clion-Projects/A. The QueriesA. The Queries/cmake-build-debug/CMakeFiles/rebuild_cache.dir
